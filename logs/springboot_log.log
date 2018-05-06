@@ -1,0 +1,20 @@
+[INFO ] 2018-05-06 13:20:29.287 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 926 ms
+[INFO ] 2018-05-06 13:20:29.589 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@702657cc: startup date [Sun May 06 13:20:28 CST 2018]; root of context hierarchy
+[INFO ] 2018-05-06 13:20:29.636 [main] RequestMappingHandlerMapping - Mapped "{[/]}" onto public java.lang.String com.javasampleapproach.log4j2.controller.SimpleController.hello()
+[INFO ] 2018-05-06 13:20:29.638 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2018-05-06 13:20:29.639 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2018-05-06 13:20:29.656 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2018-05-06 13:20:29.656 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2018-05-06 13:20:29.677 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2018-05-06 13:21:10.636 [http-nio-8080-exec-1] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+[INFO ] 2018-05-06 13:21:10.645 [http-nio-8080-exec-1] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 9 ms
+[INFO ] 2018-05-06 13:23:52.601 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 756 ms
+[INFO ] 2018-05-06 13:23:52.890 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@702657cc: startup date [Sun May 06 13:23:51 CST 2018]; root of context hierarchy
+[INFO ] 2018-05-06 13:23:52.925 [main] RequestMappingHandlerMapping - Mapped "{[/]}" onto public java.lang.String com.javasampleapproach.log4j2.controller.SimpleController.hello()
+[INFO ] 2018-05-06 13:23:52.939 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2018-05-06 13:23:52.940 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2018-05-06 13:23:52.957 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2018-05-06 13:23:52.957 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2018-05-06 13:23:52.978 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2018-05-06 13:24:18.723 [http-nio-8080-exec-1] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+[INFO ] 2018-05-06 13:24:18.734 [http-nio-8080-exec-1] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 11 ms

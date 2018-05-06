@@ -1,0 +1,4 @@
+[INFO ] 2018-05-06 13:21:10.664 [http-nio-8080-exec-1] SimpleController - Info message
+[WARN ] 2018-05-06 13:21:10.665 [http-nio-8080-exec-1] SimpleController - Warn message
+[ERROR] 2018-05-06 13:21:10.665 [http-nio-8080-exec-1] SimpleController - Error message
+[ERROR] 2018-05-06 13:24:18.752 [http-nio-8080-exec-1] SimpleController - Error message
